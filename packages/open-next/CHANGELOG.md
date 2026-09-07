@@ -1,5 +1,11 @@
 # open-next
 
+## 4.1.5
+
+### Patch Changes
+
+- [#1240](https://github.com/opennextjs/opennextjs-aws/pull/1240) [`66111316c08d81ff390d67a307bde9ca40d04ae7`](https://github.com/opennextjs/opennextjs-aws/commit/66111316c08d81ff390d67a307bde9ca40d04ae7) Thanks [@conico974](https://github.com/conico974)! - fix: split the compound `set-cookie` header set by `cookies()` in the middleware
+
 ## 4.1.4
 
 ### Patch Changes
